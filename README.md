@@ -1,4 +1,4 @@
-**URBAN MART FOOD STOCK DATA ANALYSIS**
+**URBAN_MART_FOOD_STOCK_DATA_ANALYSIS**
 
 **Introduction**
 This README document provides an overview of the data analysis performed on Urban Mart's food stock data between the period of 2022 to 2023. The analysis aimed to extract valuable insights related to the highest selling item, products with imminent expiration dates, markup profit, current profit, and projected profit based on initial and current quantities. Additionally, cost per procurement was evaluated to inform decision-making within Urban Mart.
